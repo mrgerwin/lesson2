@@ -7,9 +7,11 @@
 *   cd lesson2
 *   git remote add origin https://github.com/mrgerwin/lesson2
 *   git pull origin master
-*   git checkout -b [yourlastName]
+*   git checkout -b [your last Name]
 * ________________________________________________
 * make your changes to the file coffee.py according to the exercise
 * then commit your changes with the following git command
 * ________________________________________________
-*   git commit -m "[your full name and class period]"
+*   git push origin [your last Name or whatever you called the branch]
+* ________________________________________________
+* a dialog box will appear to log you into github if you haven't already done so and it will commit your files in that branch so that I can see them
