@@ -6,8 +6,8 @@ def printReceipt(name, coffeeNum, hChocolateNum, totalCost):
   print("Hot Chocolates........" + str(hChocolateNum) + " x 0.50")
   print("----------------------------------")
   print("Total Cost.............$"+str(totalCost))
-  name = "John Doe"
-  coffeeNum = 3
-  hChocolateNum = 2
-  totalCost = 1.75
+name = "John Doe"
+coffeeNum = 3
+hChocolateNum = 2
+totalCost = 1.75
 printReceipt(name, coffeeNum, hChocolateNum, totalCost)
