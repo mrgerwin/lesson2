@@ -21,7 +21,7 @@
 1. What is one reason for using functions?
 2. True or False, all function must return a value? Explain.
 3. What word must be used so that the function can use and change a variable outside of the function’s scope?
-4. What is the result of the code below?
+4. Without entering the code into a python interpreter, describe the result of the code below?
 
 * ________________________________________________
 
