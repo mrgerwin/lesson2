@@ -27,8 +27,8 @@
 
 ```python  
 def printHeader(c):	
-	print(c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c)
-	c =input(“What Character for your header?”)
+    print(c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c)
+c =input(“What Character for your header?”)
 printHeader(c)
 printHeader(“*”)
 printHeader(‘2’)
